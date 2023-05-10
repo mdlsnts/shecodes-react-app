@@ -1,3 +1,7 @@
+body {
+  padding: 20px;
+}
+
 h1 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   text-align: center;
@@ -57,4 +61,21 @@ p {
   color: #06204e;
   font-weight: bold;
   font-size: 22px;
+}
+
+footer {
+  color: #06204e;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+  font-weight: 100;
+  font-size: 12px;
+  padding: 20px;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: #8b1874;
+}
+.footer-link:hover {
+  font-weight: 400;
 }
